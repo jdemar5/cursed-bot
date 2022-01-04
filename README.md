@@ -1,0 +1,2 @@
+# cursed-bot
+discord bot 
